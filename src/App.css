@@ -23,11 +23,19 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
-.App-link {
-  color: #61dafb;
+.heading{
+  text-align: center;
+text-decoration: underline;
 }
+.text{
+  font-weight: bold;
+}
+.btn{
+  font-weight: bolder;
+  background-color:thistle;
+  color:black
 
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
